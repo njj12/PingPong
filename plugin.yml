@@ -1,0 +1,8 @@
+name: PingPong
+main: com.github.njj12.ping.pong.PingPong
+version: 1.0.0
+author: njj
+commands:
+       ping:
+        description:
+        usage:
